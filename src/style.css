@@ -26,6 +26,7 @@ h1 {
 
 a:link {
   text-decoration: none;
+  font-color: rbga(255, 255, 255, 0.87);
 }
 
 a:hover {
