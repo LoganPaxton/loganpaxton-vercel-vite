@@ -24,6 +24,10 @@ h1 {
   font-size: 2.2em;
 }
 
+a {
+  font-color: rbga(255, 255, 255, 0.87);
+}
+
 a:link {
   text-decoration: none;
   font-color: rbga(255, 255, 255, 0.87);
