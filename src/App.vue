@@ -18,6 +18,8 @@
     <h2>Furniture RNG</h2>
     <p>Furniture RNG may be open to the public this weekend! I am looking forward to it! (5/25/24)</p>
     <p>More updates coming soon!</p>
+    <p>Well, I have decided to work on a new project (Multiple) I have decided to cut any / all updates (currently) to Furniture RNG.</p>
+    <p>Yes, Furniture RNG will still be whitelist only, and up on Roblox. (6/3/24)</p>
   </div>
 </template>
 
